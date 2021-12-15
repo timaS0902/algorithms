@@ -7,5 +7,3 @@ var twoSum = function(nums, target) {
         }
     }
 };
-
-console.log(twoSum([10,29,12], 22));
